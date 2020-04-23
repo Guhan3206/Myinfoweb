@@ -1,0 +1,136 @@
+body{
+    margin: 0; 
+    background-color: #ff5733;
+    
+    font-family: 'Montserrat',sans-serif;
+
+}
+h1{
+    color: #511845;
+    margin-top: 0;
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 0;
+    font-size: 70px;
+    font-family: 'Sacramento', cursive;
+    
+}
+p{  
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+
+
+.topsec{
+background-color: #511845; 
+height:23.5vh;
+background-size: cover;
+background-position: center;
+}
+
+
+.main{
+    
+    float: right;
+    list-style: none;
+    margin: 50px;
+    padding-top: 9px;
+    font-family:'Montserrat',sans-serif;
+    
+}
+.main li{
+    display: inline-block;
+    
+
+}
+.main li a
+{
+    color:whitesmoke;
+    text-decoration: none;
+    padding: 5px 25px ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    
+}
+
+.main li.Sign a{
+    border-radius: 10px;
+}
+.main li a:hover
+{
+    border: 2px solid #511845;
+    background-color:#ff5733;
+}
+
+.logo img{
+    width: 100px;
+    height: auto;
+    float: left;
+    margin:20px 60px;
+   
+}
+img{
+    padding: 0;
+}
+.main li.sign a{
+    border-radius: 10px;
+}
+
+
+.topcont{
+    background-color: #ff5733;
+    height: 102vh;
+    display: block;
+    text-align: center;
+    margin-left: 350px;
+    width: 50%;
+}
+.top-cloud{
+   position:absolute;
+   margin-top: 20px;
+   margin-left: 100px;
+   left: 900px;
+}
+.bottom-cloud{
+    position: absolute;
+    right:900px;
+    
+}
+
+.mountain{
+    height: 340px;
+
+}
+
+
+
+.profile{
+    display: block;    
+    margin-top: 50px;
+    background-color: #ff5733;
+    text-align: center;
+    
+    width: 800px;
+    margin-left: 280px;
+
+
+}
+.middlecontainer{
+    background-color: #ff5733;
+    height: 100vh;
+}
+hr{
+    border-style: dotted;
+    color: #ff5733;
+    background-color: #511845;
+    border-width: 5px;
+    border-top: 0;
+    width: 50px;
+}
+
+.abtme{
+    text-align: center;
+    width: 1000px;
+    margin-left: 200px;
+}
